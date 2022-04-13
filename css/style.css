@@ -1,0 +1,48 @@
+main {
+	width: 900px;
+    margin: 0 auto 0 auto;
+}
+header {
+	width: 900px;
+    height: 50px;
+    font-size: 25px;
+}
+section {
+	width: 900px;
+}
+aside {
+	width: 200px;
+    float: left;
+}
+aside h2 {
+    color: rgb(0, 0, 0);
+    height: 30px;
+    font-size: 18px;
+    padding: 5px 0 0 5px;
+    box-sizing: border-box;
+    margin-bottom: 0;
+}
+aside ul {
+    
+    border: 1px solid #050708;
+    padding: 5px 0 5px 25px;
+    margin-top: 0;
+}
+article {
+	width: 670px;
+    float: right;
+    
+}
+article p {
+    text-align: justify;
+}
+footer {
+	width: 900px;
+    height: 50px;
+    background: #440339;
+    clear: both;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
